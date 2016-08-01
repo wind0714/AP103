@@ -1,1 +1,3 @@
 omg  這是什麼
+git push -u origin master
+git log --oneline --all --decorate --graph
